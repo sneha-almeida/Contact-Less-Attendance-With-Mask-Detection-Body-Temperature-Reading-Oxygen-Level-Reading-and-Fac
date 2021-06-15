@@ -8,4 +8,10 @@ The system will recognize the QR code that the user will point towards the scree
 3) Face Recognition
 Once the QR code is detected for the particular user, then the face of the user will be detected, if the concerned user is present before the camera, then the attendance will be marked
 
+Some images of the system are:
+
+![QR Code]()
+
+![QR Code Detector](https://github.com/sneha-almeida/Contact-Less-Attendance-With-Mask-Detection-Body-Temperature-Reading-Oxygen-Level-Reading-and-Fac/blob/main/ss-1.PNG)
+
 
